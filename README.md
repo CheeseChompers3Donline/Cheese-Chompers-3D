@@ -1,5 +1,4 @@
-# Cheese-Chompers-3D
-Cluck yeah! Play Crazy Chicken 3D free online. Like Crazy Cattle but with feathers! Bump, dodge & use physics in this fun chicken battle royale. Be the last bird standing. Play now!
+
 # Play Cheese Chompers 3D: Get Ready for Wobbly Rat Knockout Madness!
 
 Jump into Cheese Chompers 3D! Play this fun, free online multiplayer game where wobbly rats battle it out. Knock opponents out of the arena & be the last rat standing. Play now!
