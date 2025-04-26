@@ -7,7 +7,7 @@ Jump into Cheese Chompers 3D! Play this fun, free online multiplayer game where 
 # Welcome to [Cheese Chompers 3D](https://cheesechompers-3d.com)
 [Cheese Chompers 3D](https://cheesechompers-3d.com) is a hilarious fast-paced knockout game where you control wobbly rats in chaotic battles across a vibrant arena. This browser-based adventure delivers a cheese-fueled experience like no other, featuring comical rat physics, explosive knockouts, and non-stop action. Developed using Unity, [Cheese Chompers 3D](https://cheesechompers-3d.com) offers a fresh take on the animal physics genre with its unique rodent theme and engaging gameplay mechanics.
 
-[![Cheese Chompers 3D Image](https://public-image.fafafa.ai/cm9vhsbui002lqvra6k9ylaf0/2025-04-24/images/1745507847370-izj529.png)](https://cheesechompers-3d.com)
+[![Cheese Chompers 3D ](https://public-image.fafafa.ai/cm9vhsbui002lqvra6k9ylaf0/2025-04-24/images/1745507847370-izj529.png)](https://cheesechompers-3d.com)
 
 🎮 Play Cheese Chompers 3D now!
 
